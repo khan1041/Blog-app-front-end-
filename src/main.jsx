@@ -13,7 +13,6 @@ createRoot(document.getElementById('root')).render(
 <App />
 
  </AuthProvider1> 
-<ToastContainer/>
   </StrictMode>
   </BrowserRouter>
   )
